@@ -60,8 +60,8 @@ Console.WriteLine("\n[Pressione qualquer tecla para encerrar o log]");
 Console.ReadKey();
 📸 Registro de Evidência (A "Prova do Crime")
 Tire um print do terminal no momento em que a análise estiver acontecendo (mostrando a mensagem de .[lista3part1])
-Tire um print do terminal no momento em que a análise estiver acontecendo (mostrando a mensagem de [lista3part3]).
-Tire um print do terminal no momento em que a análise estiver acontecendo (mostrando a mensagem de [lista3part2).
+Tire um print do terminal no momento em que a análise estiver acontecendo (mostrando a mensagem de .[lista3part3]).
+Tire um print do terminal no momento em que a análise estiver acontecendo (mostrando a mensagem de .[lista3part2).
 
 Isso prova que seu sistema está informando o status em tempo real conforme a heurística de Nielsen.
 
