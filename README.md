@@ -59,9 +59,6 @@ Console.WriteLine("-------------------------------------------");
 Console.WriteLine("\n[Pressione qualquer tecla para encerrar o log]");
 Console.ReadKey();
 📸 Registro de Evidência (A "Prova do Crime")
-Tire um print do terminal no momento em que a análise estiver acontecendo (mostrando a mensagem de .[lista3part1])
-Tire um print do terminal no momento em que a análise estiver acontecendo (mostrando a mensagem de .[lista3part3]).
-Tire um print do terminal no momento em que a análise estiver acontecendo (mostrando a mensagem de .(/lista3part2.png)
 ![Print do terminal rodando o projeto](./lista3part1.png)
 ![Print do terminal rodando o projeto](./lista3part3.png)
 ![Print do terminal rodando o projeto](./lista3part2.png)
